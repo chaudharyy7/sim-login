@@ -1,0 +1,3 @@
+SIM Login Android Web App
+
+The SIM Login Android Web App allows students to securely log in and access their college activities, academic performance, and attendance records. This app provides a user-friendly interface that ensures seamless navigation, enabling students to stay updated on their educational journey. Key features include real-time notifications for academic updates, an integrated calendar for tracking college events, and detailed attendance reports to monitor class participation. The app is designed with robust security protocols to protect user data, ensuring privacy and confidentiality.
