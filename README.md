@@ -1,12 +1,12 @@
-****Sim Login Web App****
+**Sim Login Web App**
 
 A web application designed for college students to simplify and streamline login processes.
 
-**Website**
+*Website*
 
 Access the web app here: Sim Login
 
-**Features**
+*Features*
 
 Secure login functionality for students.
 
@@ -15,18 +15,18 @@ User-friendly interface tailored for ease of use.
 Reliable backend integration for smooth authentication.
 
 
-**Technologies Used**
+*Technologies Used*
 
 Kotlin: For developing the web application.
 
 Server: Hosted on uj.servergi.com.
 
 
-**Installation**
+*Installation*
 
 1. Clone the repository:
 
-"""git clone https://github.com/your-username/sim-login-web-app.git"""
+```git clone https://github.com/chaudharyy7/sim-login```
 
 
 2. Open the project in your preferred IDE.
@@ -39,7 +39,7 @@ Server: Hosted on uj.servergi.com.
 
 
 
-**Usage**
+*Usage*
 
 1. Visit the login page at Sim Login.
 
@@ -48,12 +48,12 @@ Server: Hosted on uj.servergi.com.
 
 
 
-**Contributing**
+*Contributing*
 
 Contributions are welcome! If you have suggestions or improvements, please create a pull request or submit an issue.
 
 
-**Contact**
+*Contact*
 
 Developer: Vimal Chaudhary
 
@@ -61,6 +61,7 @@ Email: vimal07chaudhary@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/vimal-chaudhary-993303326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
+Telegram : @The_deadMad
 
 
 ---
