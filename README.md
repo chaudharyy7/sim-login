@@ -2,7 +2,7 @@
 
 A modern and secure web application designed for **college students** to simplify and streamline the login process.  
 
-🔗 **Live Demo**: [Sim Login](#)*  
+🔗 **Live Demo**: [Sim Login](#)
 
 ---
 
@@ -28,3 +28,10 @@ Follow these steps to get started:
 1️⃣ **Clone the repository**  
 ```bash
 git clone https://github.com/chaudharyy7/sim-login
+
+📞 Contact
+👨‍💻 Developer: Vimal Chaudhary
+
+📩 Email: vimal07chaudhary@gmail.com
+🔗 LinkedIn: Vimal Chaudhary
+💬 Telegram: @The_deadMad
