@@ -2,7 +2,7 @@
 
 A modern and secure web application designed for **college students** to simplify and streamline the login process.  
 
-🔗 **Live Demo**: [Sim Login](#) *(Update with your actual link!)*  
+🔗 **Live Demo**: [Sim Login](#)*  
 
 ---
 
