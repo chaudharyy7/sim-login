@@ -29,9 +29,3 @@ Follow these steps to get started:
 ```bash
 git clone https://github.com/chaudharyy7/sim-login
 
-📞 Contact
-👨‍💻 Developer: Vimal Chaudhary
-
-📩 Email: vimal07chaudhary@gmail.com
-🔗 LinkedIn: Vimal Chaudhary
-💬 Telegram: @The_deadMad
